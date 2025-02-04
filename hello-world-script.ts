@@ -1,5 +1,7 @@
 // TYPESCRIPT (Likt Java, man deklarerar datatyp)
 
+// New comment, did this appear at GIT?
+
 // import likt Java
 import { User } from "./types/user"
 import { Sidekick, Superhero } from "./types/workLab"
